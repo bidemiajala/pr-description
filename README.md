@@ -130,4 +130,4 @@ Built by **Bidemi** with [Claude Code](https://claude.ai).
 
 ## License
 
-MIT
+[MIT](LICENSE)
