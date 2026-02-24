@@ -1,4 +1,4 @@
-# pr-description
+# PR Description
 
 > A Claude Code skill that writes your pull request descriptions for you — from diff to markdown in one command.
 
