@@ -122,6 +122,12 @@ pr-description/
 
 ---
 
+## Learn more
+
+[Read the blog post](https://www.bidemi.xyz/blog/i-built-a-claude-skill-that-writes-your-pr-descriptions) about how and why this skill was built.
+
+---
+
 ## Credits
 
 Built by **Bidemi** with [Claude Code](https://claude.ai).
